@@ -1,0 +1,5 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/ericryhr/Documents/Repos/TicTacToeC++'
+g++ -o TicTacToe main.cc Board.o AI.o
+make: Leaving directory '/home/ericryhr/Documents/Repos/TicTacToeC++'
+ 
